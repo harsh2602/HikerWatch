@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hikers Watch</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Hiker\'s Watch</string>
+    <string name="lat">Latitude: 32.7</string>
+    <string name="lng">Longitude: 32.7</string>
+    <string name="speed">Speed: 10 m/s</string>
+    <string name="bearing">Bearing: 086</string>
+    <string name="accuracy">Accuracy: 20.0 m</string>
+    <string name="address">Address: Fetching...</string>
+    <string name="copyright">© 2016 Harsh Khandelwal</string>
+    <string name="altitude">Altitude: 100 m</string>
+</resources>
